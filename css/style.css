@@ -62,7 +62,14 @@
     text-align: left;
 
 }
+.cella-grande{
+    width: 50%;
+    text-align: left;
+}
 
-
+.cella-piccola{
+    width: 25%;
+    text-align: left;
+}
 
     
